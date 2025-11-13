@@ -1,4 +1,4 @@
-# Cookie Cats A/B Test Dashboard
+ A/B Test Dashboard
 
 An executive-friendly interactive dashboard for analyzing mobile game player retention and A/B test experiments.
 
