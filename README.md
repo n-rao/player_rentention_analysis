@@ -1,4 +1,4 @@
- A/B Test Dashboard
+## A/B Test Dashboard
 
 An executive-friendly interactive dashboard for analyzing mobile game player retention and A/B test experiments.
 
@@ -142,8 +142,3 @@ Results are considered statistically significant if p-value < 0.05.
 
 This project is for demonstration purposes. The Cookie Cats dataset is available on Kaggle.
 
-## Author
-
-Created as a demonstration of KPI definition, A/B test analysis, and executive dashboard creation for mobile game analytics.
-
-# player_rentention_analysis
